@@ -52,4 +52,3 @@ Generic buffer for batching entries, such as log entries.
 
 
 
-
